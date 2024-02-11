@@ -16,8 +16,6 @@ The design of the circuit should use the outputs of sensors A, B, C, and D as in
 
 *Resolution:*
 
-Certainly! Let's convert the provided information into English while maintaining the same format:
-
 Conditions:
 A and B - Pedestrian Crossing:
   0 - No pedestrian - Vehicle signal red
